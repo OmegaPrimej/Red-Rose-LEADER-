@@ -1,0 +1,4 @@
+pkg install coreutils
+dd if=/dev/urandom of=queentarget.bin bs=1024 count=64
+
+
